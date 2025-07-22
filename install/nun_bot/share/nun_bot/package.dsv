@@ -1,0 +1,6 @@
+source;share/nun_bot/hook/pythonpath.ps1
+source;share/nun_bot/hook/pythonpath.dsv
+source;share/nun_bot/hook/pythonpath.sh
+source;share/nun_bot/hook/ament_prefix_path.ps1
+source;share/nun_bot/hook/ament_prefix_path.dsv
+source;share/nun_bot/hook/ament_prefix_path.sh

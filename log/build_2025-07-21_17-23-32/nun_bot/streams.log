@@ -1,0 +1,47 @@
+[2.892s] Invoking command in '/home/labtech/ros2_ws/src/nun_bot': PYTHONPATH=/home/labtech/ros2_ws/src/nun_bot/build/nun_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/nun_bot build --build-base /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build install --record /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/install.log --single-version-externally-managed install_data
+[3.993s] running egg_info
+[3.996s] creating build/nun_bot/nun_bot.egg-info
+[3.997s] writing build/nun_bot/nun_bot.egg-info/PKG-INFO
+[3.998s] writing dependency_links to build/nun_bot/nun_bot.egg-info/dependency_links.txt
+[3.999s] writing entry points to build/nun_bot/nun_bot.egg-info/entry_points.txt
+[3.999s] writing requirements to build/nun_bot/nun_bot.egg-info/requires.txt
+[4.000s] writing top-level names to build/nun_bot/nun_bot.egg-info/top_level.txt
+[4.001s] writing manifest file 'build/nun_bot/nun_bot.egg-info/SOURCES.txt'
+[4.008s] reading manifest file 'build/nun_bot/nun_bot.egg-info/SOURCES.txt'
+[4.011s] writing manifest file 'build/nun_bot/nun_bot.egg-info/SOURCES.txt'
+[4.012s] running build
+[4.012s] running build_py
+[4.013s] creating /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build
+[4.013s] creating /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib
+[4.014s] creating /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot
+[4.014s] copying nun_bot/UMR04.py -> /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot
+[4.015s] copying nun_bot/__init__.py -> /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot
+[4.015s] copying nun_bot/ultrasonic_sensor_publisher.py -> /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot
+[4.016s] copying nun_bot/keyboard_command_publisher.py -> /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot
+[4.016s] copying nun_bot/arduino_subscriber.py -> /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot
+[4.018s] running install
+[4.019s] running install_lib
+[4.022s] creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot
+[4.022s] copying /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot/UMR04.py -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot
+[4.023s] copying /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot/__init__.py -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot
+[4.024s] copying /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot/ultrasonic_sensor_publisher.py -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot
+[4.024s] copying /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot/keyboard_command_publisher.py -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot
+[4.025s] copying /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build/lib/nun_bot/arduino_subscriber.py -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot
+[4.028s] byte-compiling /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot/UMR04.py to UMR04.cpython-310.pyc
+[4.029s] byte-compiling /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot/__init__.py to __init__.cpython-310.pyc
+[4.030s] byte-compiling /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot/ultrasonic_sensor_publisher.py to ultrasonic_sensor_publisher.cpython-310.pyc
+[4.034s] byte-compiling /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot/keyboard_command_publisher.py to keyboard_command_publisher.cpython-310.pyc
+[4.037s] byte-compiling /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot/arduino_subscriber.py to arduino_subscriber.cpython-310.pyc
+[4.039s] running install_data
+[4.039s] creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index
+[4.040s] creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index/resource_index
+[4.040s] creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index/resource_index/packages
+[4.041s] copying resource/nun_bot -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index/resource_index/packages
+[4.041s] copying package.xml -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/nun_bot
+[4.041s] running install_egg_info
+[4.048s] Copying build/nun_bot/nun_bot.egg-info to /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun_bot-0.0.0-py3.10.egg-info
+[4.053s] running install_scripts
+[4.135s] Installing keyboard_talker = nun_bot.keyboard_command_publisher:mainarduino_listener script to /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/nun_bot
+[4.136s] Installing ultrasonic_talker script to /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/nun_bot
+[4.138s] writing list of installed files to '/home/labtech/ros2_ws/src/nun_bot/build/nun_bot/install.log'
+[4.254s] Invoked command in '/home/labtech/ros2_ws/src/nun_bot' returned '0': PYTHONPATH=/home/labtech/ros2_ws/src/nun_bot/build/nun_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base build/nun_bot build --build-base /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build install --record /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/install.log --single-version-externally-managed install_data
