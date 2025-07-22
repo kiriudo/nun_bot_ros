@@ -1,0 +1,26 @@
+[2.944s] Invoking command in '/home/labtech/ros2_ws/src/nun_bot/build/nun_bot': PYTHONPATH=/home/labtech/ros2_ws/src/nun_bot/build/nun_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build --no-deps symlink_data
+[4.157s] running develop
+[4.933s] running egg_info
+[4.934s] creating nun_bot.egg-info
+[4.934s] writing nun_bot.egg-info/PKG-INFO
+[4.936s] writing dependency_links to nun_bot.egg-info/dependency_links.txt
+[4.937s] writing entry points to nun_bot.egg-info/entry_points.txt
+[4.938s] writing requirements to nun_bot.egg-info/requires.txt
+[4.938s] writing top-level names to nun_bot.egg-info/top_level.txt
+[4.939s] writing manifest file 'nun_bot.egg-info/SOURCES.txt'
+[4.945s] reading manifest file 'nun_bot.egg-info/SOURCES.txt'
+[4.948s] writing manifest file 'nun_bot.egg-info/SOURCES.txt'
+[4.954s] running build_ext
+[4.955s] Creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun-bot.egg-link (link to .)
+[4.958s] Installing arduino_listener script to /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/nun_bot
+[4.959s] Installing keyboard_talker script to /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/nun_bot
+[4.960s] Installing ultrasonic_talker script to /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/nun_bot
+[4.961s] 
+[4.961s] Installed /home/labtech/ros2_ws/src/nun_bot/build/nun_bot
+[4.962s] running symlink_data
+[4.962s] creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index
+[4.963s] creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index/resource_index
+[4.963s] creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index/resource_index/packages
+[4.964s] symbolically linking /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/resource/nun_bot -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index/resource_index/packages
+[4.965s] symbolically linking /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/package.xml -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/nun_bot
+[5.100s] Invoked command in '/home/labtech/ros2_ws/src/nun_bot/build/nun_bot' returned '0': PYTHONPATH=/home/labtech/ros2_ws/src/nun_bot/build/nun_bot/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/build --no-deps symlink_data

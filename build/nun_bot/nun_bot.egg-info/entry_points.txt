@@ -1,0 +1,5 @@
+[console_scripts]
+arduino_listener = nun_bot.arduino_subscriber:main
+keyboard_talker = nun_bot.keyboard_command_publisher:main
+ultrasonic_talker = nun_bot.ultrasonic_sensor_publisher:main
+

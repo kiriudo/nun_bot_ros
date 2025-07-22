@@ -1,0 +1,24 @@
+running develop
+running egg_info
+creating nun_bot.egg-info
+writing nun_bot.egg-info/PKG-INFO
+writing dependency_links to nun_bot.egg-info/dependency_links.txt
+writing entry points to nun_bot.egg-info/entry_points.txt
+writing requirements to nun_bot.egg-info/requires.txt
+writing top-level names to nun_bot.egg-info/top_level.txt
+writing manifest file 'nun_bot.egg-info/SOURCES.txt'
+reading manifest file 'nun_bot.egg-info/SOURCES.txt'
+writing manifest file 'nun_bot.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/python3.10/site-packages/nun-bot.egg-link (link to .)
+Installing arduino_listener script to /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/nun_bot
+Installing keyboard_talker script to /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/nun_bot
+Installing ultrasonic_talker script to /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/lib/nun_bot
+
+Installed /home/labtech/ros2_ws/src/nun_bot/build/nun_bot
+running symlink_data
+creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index
+creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index/resource_index
+creating /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index/resource_index/packages
+symbolically linking /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/resource/nun_bot -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/ament_index/resource_index/packages
+symbolically linking /home/labtech/ros2_ws/src/nun_bot/build/nun_bot/package.xml -> /home/labtech/ros2_ws/src/nun_bot/install/nun_bot/share/nun_bot
